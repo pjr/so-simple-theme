@@ -1,6 +1,6 @@
 title:            "Philip's Blog"
-description:      "There is nothing either good or bad, but thinking makes it so"
-#logo:             site-logo.png
+description:      "\"There is nothing either good or bad, but thinking makes it so\""
+logo:             logo.jpg
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -32,7 +32,7 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: About me
     url: /about/
   - title: posts
     url: /posts/
