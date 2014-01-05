@@ -1,6 +1,6 @@
 title:            "Philip's Blog"
 description:      "There is nothing either good or bad, but thinking makes it so"
-logo:             site-logo.png
+#logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -12,9 +12,9 @@ owner:
   avatar:         me.jpg
   email:          phil@brassy.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        philreynolds
   facebook:       
-  github:         github.com/pjr
+  github:         pjr
   stackexchange:  
   linkedin:       
   instagram:      
@@ -34,10 +34,8 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
+  - title: posts
+    url: /posts/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
